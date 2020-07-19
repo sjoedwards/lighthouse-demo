@@ -1,0 +1,24 @@
+{
+  "name": "lighthouse-demo",
+  "version": "1.0.0",
+  "description": "Example repo for how to write node scripts testing web applications for accessibility, using Google Lighthouse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lighthouse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoedwards/lighthouse-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoedwards/lighthouse-demo/issues"
+  },
+  "homepage": "https://github.com/sjoedwards/lighthouse-demo#readme",
+  "dependencies": {
+    "lighthouse": "^6.1.1",
+    "puppeteer": "^5.2.0",
+    "yargs": "^15.4.1"
+  }
+}
