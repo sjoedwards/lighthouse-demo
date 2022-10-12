@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sjoedwards/lighthouse-demo#readme",
   "dependencies": {
-    "lighthouse": "^6.1.1",
+    "lighthouse": "^9.6.7",
     "puppeteer": "^5.2.0",
     "yargs": "^15.4.1"
   }
